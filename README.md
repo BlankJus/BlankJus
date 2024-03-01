@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlankJus
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning html, css and most important python 
+- 🌱 I’m currently learning C
 - ✨️ I’m looking to collaborate on all kinds of intresting projects
 - 📫 How to reach me p4ulnerges@gmail.com
 
